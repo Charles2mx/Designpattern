@@ -21,6 +21,8 @@ tmp/
 *.bak
 *.swp
 *~.nib
+.idea/
+*.iml
 local.properties
 .settings/
 .loadpath
@@ -55,6 +57,7 @@ local.properties
 
 # Tern plugin
 .tern-project
+.idea/workspace.xml
 
 # TeXlipse plugin
 .texlipse
@@ -190,4 +193,7 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+.idea/
+.idea/workspace.xml
+
 
